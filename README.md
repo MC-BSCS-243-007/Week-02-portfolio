@@ -2,11 +2,9 @@
 
 A cinematic, single-page frontend portfolio built for **Week 2 — 3D Interactive Personal Portfolio** of the Internlytic front-end internship. The concept is **depth as navigation**: layered atmospheric panels, a tilted 3D identity card, and foreground/background layers that move at different speeds as you scroll.
 
-![Desktop hero](./docs/preview-desktop.jpg)
 
-## Live demo
 
-Not deployed yet. The project is production-ready and the included GitHub Actions workflow deploys it to GitHub Pages on every push to `main` (see [Deployment](#deployment)). Add the published URL here once it is live.
+
 
 ## Sections
 
@@ -16,7 +14,7 @@ Not deployed yet. The project is production-ready and the included GitHub Action
 - **Work** — four project cards with custom inline SVG cover art, descriptions, tech tags, and openable case notes.
 - **Contact** — availability card, professional links, copy-to-clipboard email, and a client-side validated contact form.
 
-![Selected work](./docs/preview-projects.jpg)
+
 
 ## What makes it interactive
 
@@ -132,14 +130,7 @@ Social networks do not resolve relative preview image URLs.
 - **Contact form:** deliberately uses `mailto:` instead of a backend. If you add a form service later, keep credentials out of the frontend and validate on the server as well.
 - **Avatar:** sourced from the GitHub profile attached to this project. Replace `src/assets/jhon-avatar.jpg` and the import in `src/data/profile.ts` if needed.
 
-## Screenshots
 
-| Desktop hero | Projects |
-| --- | --- |
-| ![Desktop hero](./docs/preview-desktop.jpg) | ![Projects](./docs/preview-projects.jpg) |
 
-![Mobile hero](./docs/preview-mobile.jpg)
-
----
 
 Built with React, TypeScript, and a lot of CSS. Week 2 submission, 2026.
