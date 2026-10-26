@@ -12,6 +12,8 @@ import { Skills } from './components/Skills'
 import { projects, type Project } from './data/projects'
 import { useSceneMotion } from './hooks/useSceneMotion'
 
+// 
+
 export default function App() {
   useSceneMotion()
 

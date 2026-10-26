@@ -38,3 +38,4 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        # The `deployment` step uses the `actions/deploy-pages` action to deploy the built portfolio to GitHub Pages. The output of this step includes the URL of the deployed page, which is stored in the `page_url` output variable. This URL can be accessed in subsequent steps or used for notifications.

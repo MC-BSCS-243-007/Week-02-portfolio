@@ -32,7 +32,7 @@ Not deployed yet. The project is production-ready and the included GitHub Action
 Pointer / scroll  ->  useSceneMotion  ->  CSS custom properties on <html>
                                            ->  hero layers, grid, orbs, ghost type
 ```
-
+##
 ## Tech stack
 
 - React 19 + TypeScript 6
