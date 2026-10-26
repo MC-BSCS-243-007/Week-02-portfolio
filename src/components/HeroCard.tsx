@@ -22,16 +22,6 @@ export function HeroCard() {
           </div>
 
           <div className="id-profile">
-            <div className="id-avatar">
-              <img
-                alt="Jhon"
-                decoding="async"
-                height="460"
-                src={profile.avatar}
-                width="460"
-              />
-              <span aria-hidden="true" className="id-avatar-ring" />
-            </div>
             <div className="id-identity">
               <p className="id-name">
                 {profile.name}
