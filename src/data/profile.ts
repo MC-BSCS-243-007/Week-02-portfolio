@@ -4,7 +4,7 @@ export const profile = {
   name: 'Jhon',
   role: 'Frontend Developer',
   location: 'Multan, Pakistan',
-  email: 'mabdulwassaykhan@gmail.com',
+  email: 'abdulwassaykhan@gmail.com',
   github: 'https://github.com/MC-BSCS-243-007',
   githubHandle: 'MC-BSCS-243-007',
   avatar: avatarUrl,
