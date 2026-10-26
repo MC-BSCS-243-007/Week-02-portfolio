@@ -84,7 +84,7 @@ export function Navbar() {
               J<span>.</span>
             </span>
             <span className="brand-text">
-              <strong>Jhon</strong>
+              <strong>John</strong>
               <span>Frontend developer</span>
             </span>
             <span className="sr-only"> — back to top</span>

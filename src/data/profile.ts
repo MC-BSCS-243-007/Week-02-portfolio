@@ -4,7 +4,7 @@ export const profile = {
   name: 'Jhon',
   role: 'Frontend Developer',
   location: 'Multan, Pakistan',
-  email: 'abdulwassaykhan@gmail.com',
+  email: 'John@gmail.com',
   github: 'https://github.com/MC-BSCS-243-007',
   githubHandle: 'MC-BSCS-243-007',
   avatar: avatarUrl,
@@ -44,15 +44,15 @@ export const aboutCards = [
 export const education = [
   {
     period: '2024 — Present',
-    title: 'BSc Computer Science',
-    place: 'Times University, Multan',
+    title: 'BS Computer Science',
+    place: 'University',
     note: 'In progress · software fundamentals, data structures and web development',
     current: true,
   },
   {
     period: '2020 — 2022',
     title: 'Intermediate in Humanities',
-    place: 'Nishat College of Science, Multan',
+    place: 'College of Science',
     note: 'Foundation in communication, research and critical thinking',
     current: false,
   },
